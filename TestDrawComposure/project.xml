@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="TestDrawComposure" package="com.sample.testdrawcomposure" version="1.0.0" company="Company Name" />
+	<app main="DependencyInjectionMetadata" path="Export" file="TestDrawComposure" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+        <haxelib name="composure" />
+	
+	<assets path="Assets" rename="assets" />
+	
+</project>
