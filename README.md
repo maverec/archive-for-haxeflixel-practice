@@ -6,5 +6,5 @@ most of this code contains a lot of trial and error, trying to see if it was pos
 things are probably different now since haxeflixel underwent quite a few changes that may make it more compatible with composure but I have yet to make any attempts
 
 
-haxeflixel website : www.haxeflixel.com
+haxeflixel website : www.haxeflixel.com  
 composure is by Tom Byrne, @TomByrne
